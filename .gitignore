@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Leave developing files unpublished
+/dev
+
+# MacOS directory file
+.DS_Store
+
+# PyCharm Settings
+.idea/
